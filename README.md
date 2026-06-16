@@ -128,6 +128,7 @@ The project uses healthcare-related datasets containing:
 ## Patient Behavior Analysis
 
 ![Patient Behavior Analysis](Dashboard Screenshots/PatientBehaviorDashboard.png)
+
 ---
 
 # Learning Outcomes
