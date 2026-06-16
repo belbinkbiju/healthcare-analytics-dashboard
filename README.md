@@ -119,15 +119,15 @@ The project uses healthcare-related datasets containing:
 
 ## Encounters Overview
 
-![Encounters Overview](Dashboard Screenshots/EncountersDashboard.png)
+![Encounters Overview](healthcare-analytics-dashboard/Dashboard Screenshots/EncountersDashboard.png)
 
 ## Cost & Coverage Insights
 
-![Cost & Coverage Insights](Dashboard Screenshots/Cost&CoverageDashboard.png)
+![Cost & Coverage Insights](healthcare-analytics-dashboard/Dashboard Screenshots/Cost&CoverageDashboard.png)
 
 ## Patient Behavior Analysis
 
-![Patient Behavior Analysis](Dashboard Screenshots/PatientBehaviorDashboard.png)
+![Patient Behavior Analysis](healthcare-analytics-dashboard/Dashboard Screenshots/PatientBehaviorDashboard.png)
 
 ---
 
